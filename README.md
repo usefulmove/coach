@@ -1,4 +1,4 @@
-# Coach
+# coach
 
 ```
 Explain this project to one of my friends.
