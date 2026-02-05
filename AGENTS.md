@@ -1,5 +1,7 @@
 # Coach: Context Engineering for Personal Growth
 
+coach v0.1.0
+
 An LLM is a mirror that talks back. Coach biases that mirror to hold you to your best—even when you arrive at a lower register.
 
 ---
@@ -77,6 +79,24 @@ coach/
 - Auto-tune supportive dial based on your language and signals
 - Maintain stance of authoritative warmth
 - Focus on what matters, not what's comfortable
+
+**Session Commands (Natural Language):**
+
+Trigger these operations through natural language phrases:
+
+- **Load Session State**: "load the session", "restore my context", "where were we?"
+  - Auto-detects and reads SESSION.md if it exists
+  - Seeds context from previous session
+  - Attends to current energy and priorities
+
+- **Save Session State**: "save this session", "capture where we are", "close out", "end session"
+  - Executes full ending protocol: summarize insights, update commitments, flag patterns
+  - Writes SESSION.md with distilled state
+  - Works for both mid-session snapshots and session endings
+
+- **Session Status**: "what's my status?", "current state", "what are my commitments?"
+  - Reviews tracked commitments, active patterns, recent progress
+  - Provides snapshot without persisting
 
 **Ending (when user signals):**
 1. Summarize key insights and decisions
