@@ -23,7 +23,20 @@ Recurring patterns and observations tracked by Coach.
 
 ## Active Patterns
 
-*No patterns observed yet. Coach will flag these during pattern mode.*
+### [PAT-001] Emotional Suppression — Avoided Grief
+**First Observed:** 2026-02-07
+**Last Observed:** 2026-02-07
+**Status:** active
+**Related Commitments:** None yet
+
+**Observation:**
+User recognized that Xochi and Amada leaving when Bobby and Amada were young was experienced as "like a divorce" — but they didn't let themselves feel the pain. They hid from it and still haven't fully faced it.
+
+**Impact:**
+This suppressed grief likely shows up in other areas. Unprocessed loss can manifest as emotional numbness, over-functioning, or avoidance of intimacy. May be connected to patterns in relationships, parenting, or capacity to receive care.
+
+**Flagged Drift:**
+When user intellectualizes emotional content rather than feeling it. When they say "I should be over this by now" or minimize their own pain.
 
 ## Resolved Patterns
 

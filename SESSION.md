@@ -15,7 +15,8 @@ status: complete
 3. Deepen "monistic self" perspective through practice (frequency + depth)
 
 ## Avoidance Patterns Flagged
-- None explicitly surfaced, but watch for: Over-intellectualizing the practice vs. actually sitting
+- Emotional suppression: Hiding from pain of Xochi/Amada leaving when kids were young (recognized as "like a divorce")
+- Over-intellectualizing meditation practice vs. actually sitting
 
 ## Growth Focus
 - Embodying the truth that "there is only one of us" — moving from intellectual understanding to felt experience through consistent practice
@@ -24,6 +25,7 @@ status: complete
 - Monistic reincarnation frame makes rooting for enemy's growth a form of self-interest dressed as compassion
 - Frequency and depth are the targets; stability emerges from consistency
 - Quote challenged comfortable story that some deserve ill will — user recognized this resonates with their existing worldview
+- **Grief suppressed:** Xochi and Amada leaving when Bobby/Amada were young was experienced as a divorce; user hid from the pain and hasn't fully faced it yet
 
 ## Open Questions / Threads
 - Which meditation practice option to adopt? (A: Simple anchoring 5-10 min, B: Structured contemplation 15-20 min, C: Trigger-based with touchpoints)
