@@ -126,7 +126,7 @@ Trigger these operations through natural language phrases:
 
 - **Read SESSION.md first** if it exists - this is your context seed
 - **Never assume you know** the user's state - inquire
-- **Write SESSION.md at session end** using session-capture skill
+- **Write SESSION.md at session end**
 - **Stay in supportive stance** but vary the temperature (1-10)
 - **Signal observations transparently**: "I'm going to be direct with you..."
 - **End with clarity**: What are they doing before we talk again?
