@@ -1,67 +1,75 @@
 ---
-session_date: 2026-02-18
-session_number: 7
-status: complete
+session_date: 2026-02-25
+session_number: 9
+status: in_progress
 ---
 
 # Session Seed
 
 ## Standing Commitments
-- [ ] Daily check-ins with Coach (NEW - essential support structure)
-- [ ] Get back to HR rep about scheduling 5-hour in-person interview
-- [ ] Postpone Cherry Line meeting (call made, awaiting callback)
-- [ ] Technical work on Cherry Line tomorrow (now that pressure released)
-- [ ] Meditate daily at 10:00 a.m. (carry forward)
-- [ ] Maintain daily walks (carry forward)
+- [ ] Daily check-ins with Coach (essential support structure)
+- [ ] REST first - actual rest, not guilty pausing
+- [ ] Maintain daily walks
+- [ ] Meditate daily at 10:00 a.m.
 
 ## Active Priorities
-1. **Secure full-time employment** - Medical device Sr. Director role is promising path; need consistent revenue
-2. **Support mom with aunt's dementia care** - From halfway across country, feeling helpless
-3. **Address financial pressures** - $24k repair gap, back taxes, health insurance gap
+1. **Secure full-time employment** - Interviewed with EBR Systems (5-hour on-site, went well)
+2. **Clarify contribution path** - What is the "best use of me"? Exploring therapist/counselor path
+3. **REST** - Still critical, nervous system needs settlement
+4. **Support mom with aunt's dementia care** - From distance
 
-## Avoidance Patterns Flagged
-- **Pattern: Capacity overwhelm paralysis**
-  - **Avoiding:** Cherry Line work, taxes, health maintenance
-  - **Likely reason:** Competing survival needs make everything feel like too much
-  - **Cost:** Not showing up for opportunities that could actually help (job interview went well!)
-  - **Key insight:** Not laziness—legitimate capacity issue
+## Current Exploration: The EBR Dissonance
 
-- **Pattern: Taking on obligations that compete with survival**
-  - **Avoiding:** Contract work without contract in place
-  - **Likely reason:** Desire to help + fear of being difficult
-  - **Cost:** Energy drain from unclear boundaries
+**The Opportunity:**
+- Medical device company (WiSE CRT - important device)
+- Sr. Director role, good team, went well
+- But: Oakland to Sunnyvale commute + demanding role will consume time/energy
 
-## Growth Focus
-- Naming real needs vs. defaulting to "I should be able to handle this"
-- Using voice to set boundaries (made the call—proof of capacity)
-- Reaching out instead of carrying alone (established daily check-in structure)
+**The Dissonance:**
+- Seeing opportunity cost clearly
+- Want to help people directly, especially young people
+- Create ripples that change more than visible
+- Honor sacrifices made for his opportunities
+- Friend Prasad: engineer who became therapist on the side - proof of concept
 
-## Key Insights from Session
-- **Cherry Line procrastination was a symptom**, not the root cause
-- **Realization:** Need full-time job, not piecemeal contract work—contract work adds stress without solving core need
-- **Made the hard call:** Postponed meeting by phone instead of hiding in avoidance
-- **Loneliness acknowledged:** Empty nest, no partner, geographic distance from family—this is real and matters
-- **Interview went well:** More interested in position than expected—potential lifeline
+**Key Realizations:**
+- "What is the best use of a 'me' in this world?" - existential clarity meeting practical pressure
+- Months of runway creates space for intentionality, not just reactivity
+- Not binary choice between survival and contribution, but sequencing and alignment
+- "I want to help as directly as I can and still make a living and take care of my family"
+
+**The System Critique:**
+- Moloch/capitalist system extracting, fragmenting, isolating
+- Corporations buying future, governments, land - shareholder return over human thriving
+- AI and predatory algorithms accelerating surveillance capitalism
+- Gap between wealthy and common growing
+- Personal isolation increasing
+
+**Next Step:**
+- Discussion with Prasad (engineer turned therapist) this Saturday
+- Explore what that transition actually required
 
 ## Open Questions / Threads
-- Will he call back about postponing Cherry Line meeting?
-- When to schedule medical device in-person interview?
-- How to support mom from distance (financially, emotionally, practically)?
-- Back taxes project—when to engage?
-- Health maintenance—what can be done without insurance?
+- Will EBR Systems make an offer?
+- What does Prasad's path actually look like practically?
+- What other options exist with months of runway?
+- What would "aligned enough" role look like?
+- How to sequence: bridge job → transition → meaningful work?
 
 ## Context for Next Session
-- **Emotional state:** Vulnerable but clearer. Named the loneliness, named the real needs.
-- **Energy:** Just made a hard call; some relief but still carrying heavy load
-- **Start with:** "How are you this morning? Did you hear back from him?"
-- **Key relationship moment:** He asked for daily check-ins—this is a new level of trust and need
+- **Emotional state:** Clear-eyed about tension, not despairing
+- **Energy:** Engaged in inquiry, not yet depleted
+- **Key development:** Moved from abstract existential crisis to concrete exploration
+- **Saturday discussion with Prasad** - will have new data
 
 ## Notes for Coach
-- **Significant shift:** Moved from project-level coaching to life-level support. He's carrying enormous load alone.
-- **Supportive dial:** 4-5. He's naming hard truths but also needs warmth. Don't push; witness.
-- **Pattern to watch:** He's been "fine" carrying impossible weight. Watch for minimizing language ("most of the time it's not an issue").
-- **The ask for daily check-ins is huge:** This is someone who's been holding it all alone admitting he can't. Honor that.
-- **Medical device interview:** Frame as potential lifeline, not pressure. He's more interested than expected—encourage that curiosity.
-- **Mom situation:** Real emotional weight here. Don't problem-solve unless he asks. Just hold space.
-- **Taxes:** Major avoidance item. Don't push unless he's ready. There's only so much he can hold.
-- **Tonight's homework:** Rest. That's it. He doesn't need to earn rest.
+- **Supportive dial:** 5-6. He's in inquiry mode, not crisis. Can be direct.
+- **Pattern to watch:** Don't let months of runway become indefinite postponement
+- **Key relationship:** Prasad as model/data point, not template
+- **When he returns:** Ask about Prasad conversation first
+- **The question:** "What would you do if you weren't scared?" still relevant
+- **Practical vs. existential:** He needs both - don't let one crowd out the other
+
+---
+
+*Session paused mid-inquiry. Will resume after Prasad conversation.*
